@@ -739,7 +739,7 @@
     "^<LeftMouse>$": "cursor at mouse click"
   },
 
-  "ex-cmd-index* *:index": {
+  "ex-cmd-index :index": {
     "^:!$": "filter lines or execute an external command",
     "^:!!$":"repeat last \":!\"command",
     "^:#$":"same as \":number\"",
