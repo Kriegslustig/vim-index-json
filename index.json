@@ -191,7 +191,7 @@
     "^\\?{pattern}<CR>$": "1 search backward for the Nth previous occurrence of {pattern}",
     "^\\?<CR>$": "1 search backward for {pattern} of last search",
     "^@([a-z])$": "2 execute the contents of register {a-z}   N times",
-    "^@:":"repeat the previous\$":\" command N times",
+    "^@:$":"repeat the previous \":\" command N times",
     "^@@$": "2 repeat the previous @{a-z} N times",
     "^A$": "2 append text after the end of the line N times",
     "^B$": "1 cursor N WORDS backward",
